@@ -17,12 +17,12 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 PRODUCT_NAME := lineage_dm1q
 PRODUCT_DEVICE := dm1q
 PRODUCT_BRAND := Samsung
-PRODUCT_MODEL := SM-S9110
+PRODUCT_MODEL := SM-S911B
 PRODUCT_MANUFACTURER := Samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
-    PRIVATE_BUILD_DESC="dm1qzhx-user 14 UP1A.231005.007 S9110ZHS2CXD1 release-keys"
+    PRIVATE_BUILD_DESC="dm1qxxx-user 14 UP1A.231005.007 S911BXXS5CXE7 release-keys"
 
-BUILD_FINGERPRINT := samsung/dm1qzhx/dm1q:14/UP1A.231005.007/S9110ZHS2CXD1:user/release-keys
+BUILD_FINGERPRINT := samsung/dm1qxxx/dm1q:13/TP1A.220624.014/S911BXXS5CXE7:user/release-keys
